@@ -7,6 +7,8 @@ See the [Parcel web app documentation](https://parceljs.org/getting-started/weba
 ## Commands
 
 `npm install` to install dependencies.
+
 `npm start` to start the server.
+
 `npm run build` to build the project.
 
